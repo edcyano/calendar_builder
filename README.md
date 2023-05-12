@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Updating a typo on paddlepaddle.md (#9108)
