@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Expand Model method type hinting (#8279)
